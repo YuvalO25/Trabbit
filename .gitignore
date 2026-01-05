@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+habits.db
+
+# Env
+.env
+.venv/
+venv/
+
+# VSCode / IDE
+.vscode/
+*.swp
+*.swo
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.turbo/
+frontend/.parcel-cache/
+frontend/.DS_Store
+
+# Logs
+*.log
+
